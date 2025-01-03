@@ -47,3 +47,5 @@ This web application allows users to check the current weather conditions in any
 
 4. **Responsive Design**:  
    The layout adjusts seamlessly on different screen sizes, ensuring accessibility across devices.
+
+<img width="1420" alt="Screenshot 2025-01-04 at 1 37 18 AM" src="https://github.com/user-attachments/assets/6abf2e22-a91e-483f-82bd-bf08b9a5d297" />
